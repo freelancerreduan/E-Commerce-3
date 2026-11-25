@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://hatilo.com/sitemap-static.xml</loc>
+    <lastmod>2026-08-22T14:02:06+06:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://hatilo.com/sitemap-categories.xml</loc>
+    <lastmod>2026-08-22T14:02:06+06:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://hatilo.com/sitemap-blog.xml</loc>
+    <lastmod>2026-08-22T14:02:06+06:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://hatilo.com/sitemap-stores.xml</loc>
+    <lastmod>2026-08-22T14:02:06+06:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://hatilo.com/sitemap-products-1.xml</loc>
+    <lastmod>2026-08-22T14:02:06+06:00</lastmod>
+  </sitemap>
+</sitemapindex>
